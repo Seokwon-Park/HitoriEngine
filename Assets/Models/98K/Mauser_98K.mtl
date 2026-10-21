@@ -1,0 +1,19 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.01.2020 14:47:37
+
+newmtl Mauser98K_Dielectric
+	Ns 100.0000
+	Ni 1.6000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka textures/Mauser98K_Glossiness.dds
+	map_Kd textures/Mauser98K_Diffuse.dds
+	map_Ks textures/Mauser98K_Specular.dds
+	map_bump textures/Mauser98K_Normal.dds
+	bump textures/Mauser98K_Normal.dds

@@ -1,0 +1,37 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl 02_-_Default
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ni 0.98
+Pl 1
+Prfl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Hitori_2.png
+
+newmtl 03_-_Default
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ni 0.98
+Pl 1
+Prfl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Hitori_3.png
+
+newmtl 01_-_Default
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ni 0.98
+Pl 1
+Prfl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Hitori_1.png

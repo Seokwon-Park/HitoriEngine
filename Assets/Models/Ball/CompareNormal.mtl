@@ -1,0 +1,13 @@
+# Blender 5.2.1 LTS MTL File: 'CompareNormal_Work.blend'
+# www.blender.org
+
+newmtl Wicker_Normal.001
+Ns 562.500000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.443137 0.352941
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_bump textures/Image_0.jpg
